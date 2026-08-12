@@ -1,215 +1,227 @@
-# 👋 Hi, I'm Abdul Wahith M
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Abdul%20Wahith%20M&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulWahith18&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/AbdulWahith18">
-    <img src="https://img.shields.io/badge/GitHub-AbdulWahith18-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Generative+AI+%26+RAG+Explorer;150%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
 
----
+<br/><br/>
+
+<a href="https://github.com/AbdulWahith18">
+  <img src="https://img.shields.io/badge/GitHub-AbdulWahith18-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=AbdulWahith18&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=161B22"/>
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-🎓 Computer Science undergraduate at **Anna University, MIT Campus, Chennai**.
+```yaml
+name: Abdul Wahith M
+role: Computer Science Undergraduate — Anna University, MIT Campus, Chennai
+focus: [Full-Stack Development, DSA, Generative AI / RAG, Applied ML]
+currently_building: Personal portfolio website (MERN stack)
+philosophy: "Learning by building — turning ideas into working products."
+fun_facts: [Chess Zonal Winner ♟️, Football Zonal Runner-up ⚽]
+```
 
-💻 Passionate about **Full-Stack Web Development, Data Structures & Algorithms, and building practical software solutions**.
+<br/>
 
-🧠 Solved **150+ problems on LeetCode**, strengthening my problem-solving and algorithmic skills.
+## 🛠️ Tech Stack
 
-🤖 Interested in **AI-powered applications, Generative AI, RAG, and modern web technologies**.
+<div align="center">
 
-🌱 Currently focused on becoming a better **software engineer by learning and building**.
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark"/>
 
-⚡ *I believe in learning by building — turning ideas into working products.*
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
 
----
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-# 🛠️ Tech Stack
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,vercel&theme=dark"/>
 
-### 💻 Programming Languages
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
-</p>
+<div align="center">
 
-### 🌐 Web Development
+![OOP](https://img.shields.io/badge/-OOP-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
+![DBMS](https://img.shields.io/badge/-Database%20Management-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+</div>
 
-### 🗄️ Databases
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+## 🚀 Featured Projects
 
-### ⚙️ Tools & Platforms
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,vercel" />
-</p>
+### 🏠 Smart Hostel Outpass Management System
+Full-stack platform for student outpass requests, approvals, and record keeping — built with role-based access and an AI-assisted workflow.
 
-### 🧠 Core Concepts
+**Stack:** MongoDB · Express.js · React.js · Node.js · Gemini API
 
-`OOP` • `Data Structures & Algorithms` • `Database Management`
-
----
-
-# 🚀 Featured Projects
-
-## 🏠 Smart Hostel Outpass Management System
-
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Google Gemini API`
-
-A full-stack web application designed to manage student outpass requests, approvals, and record keeping.
-
-### ✨ Highlights
-
-- 🔐 Secure authentication
-- 👥 Role-based access control
-- 📝 Digital outpass request and approval workflow
-- 📊 Record management
-- 📱 Responsive interface
+- 🔐 Secure authentication & role-based access
+- 📝 Digital request/approval workflow
 - 🤖 Google Gemini API integration
+- 📱 Fully responsive interface
 
-🔗 **Repository:** [Smart-Hostel-Outpass-Management-System](https://github.com/AbdulWahith18/Smart-Hostel-Outpass-Management-System)
+<a href="https://github.com/AbdulWahith18/Smart-Hostel-Outpass-Management-System">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🤖 AI Smart Learning
+### 🤖 AI Smart Learning
+An AI-focused learning application designed around an interactive, personalized educational experience.
 
-**Tech:** `JavaScript` `React.js` `Node.js` `AI`
-
-An AI-focused learning application designed to provide an interactive learning experience.
-
-### ✨ Highlights
+**Stack:** JavaScript · React.js · Node.js · AI
 
 - 🤖 AI-powered learning features
-- 📚 Learning-focused interface
-- 💡 Interactive educational experience
-- 🌐 Modern web technologies
+- 📚 Clean, learning-first interface
+- 💡 Interactive content delivery
 
-🔗 **Repository:** [AI-Smart-Learning](https://github.com/AbdulWahith18/AI-Smart-Learning)
+<a href="https://github.com/AbdulWahith18/AI-Smart-Learning">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## ☕ Java Applications
+### ☕ Java Applications
+A growing collection of Java programs built to strengthen core OOP and application-development fundamentals.
 
-A collection of Java applications created to strengthen programming fundamentals, object-oriented programming, and application development.
+<a href="https://github.com/AbdulWahith18/Java-Applications">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+</a>
 
-🔗 **Repository:** [Java-Applications](https://github.com/AbdulWahith18/Java-Applications)
+</td>
+<td width="50%" valign="top">
 
----
+### ⚡ C++ Applications
+Implementations and mini-projects centered on programming fundamentals and problem-solving.
 
-## ⚡ C++ Applications
+<a href="https://github.com/AbdulWahith18/CPP-Applications">
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"/>
+</a>
 
-A collection of C++ implementations and applications focused on programming fundamentals and problem solving.
+</td>
+</tr>
+</table>
 
-🔗 **Repository:** [CPP-Applications](https://github.com/AbdulWahith18/CPP-Applications)
+<br/>
 
----
+## 📊 GitHub Analytics
 
-# 📊 GitHub Statistics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulWahith18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahith18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWahith18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahith18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdulWahith18&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=AbdulWahith18&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
----
+<br/>
 
-# 🧩 Problem Solving
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWahith18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+</div>
 
-I regularly practice:
+<br/>
 
-`Arrays` • `Strings` • `Hashing` • `Linked Lists` • `Trees` • `Binary Search` • `Sorting` • `Dynamic Programming` • `Graphs` • `Greedy Algorithms`
+## 🧩 Problem Solving
 
----
+<div align="center">
 
-# 🎓 Education
+![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22)
 
-### 🏛️ Anna University — MIT Campus, Chennai
+`Arrays` · `Strings` · `Hashing` · `Linked Lists` · `Trees` · `Binary Search` · `Sorting` · `Dynamic Programming` · `Graphs` · `Greedy Algorithms`
 
-**B.E. Computer Science and Engineering**
+</div>
 
-2024 – 2028
+<br/>
+
+## 🎓 Education
+
+<table>
+<tr><td width="70%">
+
+**Anna University — MIT Campus, Chennai**
+<br/>B.E. Computer Science and Engineering · 2024 – 2028
+
+</td><td width="30%" align="right">
 
 **CGPA: 9.14 / 10**
 
----
+</td></tr>
+<tr><td>
 
-### 🏫 Good Shepherd Matriculation School — Tenkasi
+**Good Shepherd Matriculation School, Tenkasi**
+<br/>Higher Secondary Course
 
-**Higher Secondary Course**
+</td><td align="right">
 
 **97.3%**
 
----
+</td></tr>
+<tr><td>
 
-### 🏫 Good Shepherd Matriculation School — Tenkasi
+**Good Shepherd Matriculation School, Tenkasi**
+<br/>Secondary School Leaving Certificate
 
-**Secondary School Leaving Certificate**
+</td><td align="right">
 
 **95.2%**
 
----
+</td></tr>
+</table>
 
-# 🏆 Achievements
+<br/>
 
-🏅 **Educational District Rank Holder in HSC**
+## 🏆 Achievements & Certifications
 
-🥇 **School First Rank** in HSC 1st and 2nd year
+- 🏅 Educational District Rank Holder — HSC
+- 🥇 School First Rank — HSC 1st & 2nd Year
+- ♟️ Chess Zonal Winner
+- ⚽ Football Zonal Runner-up
+- 💻 150+ LeetCode Problems Solved
+- 🎓 Data Structures & Algorithms — Intrn Forte
 
-♟️ **Chess Zonal Winner**
+<br/>
 
-⚽ **Football Zonal Runner-up**
+## 🌱 Currently Exploring
 
-💻 **150+ LeetCode Problems Solved**
+<div align="center">
 
----
+Full-Stack Development → MERN Stack → AI-Powered Applications → Generative AI & RAG → Advanced DSA → Scalable Software Engineering
 
-# 📜 Certifications
+</div>
 
-🎓 **Data Structures & Algorithms — Intrn Forte**
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
 
-# 🌱 Currently Learning
-
-<p align="center">
-
-```text
-Full-Stack Development
-        ↓
-MERN Stack
-        ↓
-AI-powered Applications
-        ↓
-Generative AI & RAG
-        ↓
-Data Structures & Algorithms
-        ↓
-Scalable Software Engineering
+<div align="center">
+<sub>⚡ Built with a habit of shipping — thanks for stopping by!</sub>
+</div>
