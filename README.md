@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Abdul%20Wahith%20M&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Pre-Final+Year+CS+Student;MERN+Stack+Developer;Generative+AI+%26+RAG+Explorer;150%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:abdulwahith0818@gmail.com">
   <img src="https://img.shields.io/badge/Email-abdulwahith0818@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22"/>
@@ -22,32 +20,35 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=AbdulWahith18&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=161B22"/>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1E293B&height=3&width=1000" width="100%"/>
+
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="27%" align="center">
-<img src="assets/profile.jpg" width="220" style="border-radius:12px;"/>
-</td>
-<td width="73%" valign="top">
-
 ## 🚀 About Me
 
-Pre-final year **Computer Science** student at **Anna University, MIT Campus, Chennai**, with a strong interest in full-stack web development and data structures. Known for a hardworking attitude, team spirit, and problem-solving ability — I believe in **learning by building**, turning ideas into working products.
+> Pre-final year **Computer Science** student at **Anna University, MIT Campus, Chennai**, with a strong interest in full-stack web development and data structures. Known for a hardworking attitude, team spirit, and problem-solving ability — I believe in **learning by building**, turning ideas into working products.
 
-```yaml
-role: Computer Science Undergraduate (2024 – 2028)
-location: Tenkasi, Tamil Nadu, India
-focus: [Full-Stack Development, DSA, Generative AI / RAG, Applied ML]
-soft_skills: [Project Management, Adaptability, Leadership, Problem Solving, Public Speaking]
-currently_building: Personal portfolio website (MERN stack)
-```
+<div align="center">
 
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🎓 **Role** | Computer Science Undergraduate (2024 – 2028) |
+| 📍 **Location** | Tenkasi, Tamil Nadu, India |
+| 🧭 **Focus** | Full-Stack Development · DSA · Generative AI / RAG · Applied ML |
+| 🤝 **Soft Skills** | Project Management · Adaptability · Leadership · Problem Solving · Public Speaking |
+| 🏗️ **Currently Building** | Personal portfolio website (MERN stack) |
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:58A6FF&height=2&width=1000" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -71,14 +72,24 @@ currently_building: Personal portfolio website (MERN stack)
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,vercel&theme=dark"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ![OOP](https://img.shields.io/badge/-OOP-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
 ![DBMS](https://img.shields.io/badge/-Database%20Management-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/-Oracle%20SQL-161B22?style=flat-square&color=1E293B&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+
+**Proficiency Snapshot**
+
+`React.js`     ![](https://progress-bar.dev/85/?width=180&color=58a6ff)
+`Node.js / Express`     ![](https://progress-bar.dev/80/?width=180&color=58a6ff)
+`MongoDB`     ![](https://progress-bar.dev/75/?width=180&color=58a6ff)
+`Java / C++`     ![](https://progress-bar.dev/80/?width=180&color=58a6ff)
+`DSA / Problem Solving`     ![](https://progress-bar.dev/85/?width=180&color=58a6ff)
 
 </div>
 
@@ -161,6 +172,14 @@ AI-powered learning platform generating personalized study plans, quizzes, and r
 
 <br/>
 
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulWahith18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -184,6 +203,8 @@ AI-powered learning platform generating personalized study plans, quizzes, and r
 <div align="center">
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22)
+
+<br/>
 
 `Arrays` · `Strings` · `Hashing` · `Linked Lists` · `Trees` · `Binary Search` · `Sorting` · `Dynamic Programming` · `Graphs` · `Greedy Algorithms`
 
